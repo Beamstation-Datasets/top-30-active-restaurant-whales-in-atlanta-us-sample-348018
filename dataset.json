@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a city-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Whales in Atlanta, US",
+  "export_job_id": "5da5253a-e348-4e0d-b48b-ca84c0a8fa5b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 348018,
+  "location_name": "Atlanta",
+  "location_type": "city",
+  "repo_name": "top-30-active-restaurant-whales-in-atlanta-us-sample-348018",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/348018/beamstation_348018_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_pct": 9.98,
+  "sample_records": 62,
+  "sample_sha256": "459454526b317dfa0aa29512dd9bea11deef64766ec57dde5793323f5bd1aa40",
+  "sample_size_bytes": 263789,
+  "total_records": 621,
+  "updated_at": "2026-04-07T18:52:06.833705+00:00"
+}
