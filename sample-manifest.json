@@ -1,0 +1,12 @@
+{
+  "export_job_id": "5da5253a-e348-4e0d-b48b-ca84c0a8fa5b",
+  "id_short": 348018,
+  "published_at": "2026-04-11T07:33:35Z",
+  "repo_name": "top-30-active-restaurant-whales-in-atlanta-us-sample-348018",
+  "sample_asset_name": "beamstation_348018_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/348018/beamstation_348018_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_records": 62,
+  "sample_sha256": "459454526b317dfa0aa29512dd9bea11deef64766ec57dde5793323f5bd1aa40",
+  "sample_size_bytes": 263789,
+  "total_records": 621
+}
