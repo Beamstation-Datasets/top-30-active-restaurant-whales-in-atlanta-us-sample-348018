@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Atlanta, US
 
-> Free BeamStation sample export with 62 rows and masked direct-contact fields.
+> Free BeamStation sample export with 64 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `348018` |
 | Location | Atlanta |
 | Category | Restaurants |
-| Full dataset size | 621 records |
-| Free sample size | 62 records (9.98%) |
-| Last export | 2026-04-07T18:52:06.833705+00:00 |
+| Full dataset size | 646 records |
+| Free sample size | 64 records (9.91%) |
+| Last export | 2026-04-15T00:05:13.450787+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-atlanta-us-sample-348018/releases/download/sample-latest/beamstation_348018_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
